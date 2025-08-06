@@ -11,4 +11,4 @@ Ce projet a été réalisé dans le cadre du laboratoire du module 13 du cours *
 
 ## Lien vers le site web
 
-👉 (À remplacer par ton lien GitHub Pages)
+🔗 [Voir le site en ligne](https://khenteurhanane.github.io/module13-khenteur-hanane/)
